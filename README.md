@@ -15,3 +15,6 @@ While this is a proof-of-concept, the techniques demonstrated here are directly 
 * **Cheating Prevention in Games**: The VM can be used to execute critical game logic, making it extremely difficult for players to reverse engineer and create cheats like aimbots or wallhacks.
 * **Malware Obfuscation**: Malicious software often uses similar techniques to hide its true function and evade detection by antivirus software.
 * **Intellectual Property Protection**: Businesses can use these methods to protect proprietary algorithms or sensitive data processing logic embedded in their software, making it harder for competitors to steal.
+
+### Try it here
+https://crackmes.one/crackme/68a0a83c8fac2855fe6fb666
